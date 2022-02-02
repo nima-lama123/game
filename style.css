@@ -1,0 +1,67 @@
+body {
+
+	
+
+}
+
+:root{
+
+   background-color: black;
+
+    color: white;
+
+}
+
+.grid{
+
+
+    width:70vh;
+
+    height: 70vh;
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+}
+
+.square{
+
+	height: 25vh;
+
+	width:20vh;
+
+    border:0.5px solid white;
+
+    
+
+}
+
+.mole{
+
+    background-color: red;
+
+}
+
+.box{
+
+    display: flex;
+
+   
+
+}
+
+
+h2{
+
+    padding-right: 10px
+
+}
+
+.btns{
+
+    visibility: hidden
+
+}
+
+
